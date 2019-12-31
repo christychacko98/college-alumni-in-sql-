@@ -1,1 +1,2 @@
 # college-alumni-in-sql-
+My project is about to create or design a DATABASE ON COLLEGE ALUMNI.A group of people who have graduated from school or uunivercity .Alumni is usually used to refer to a group of graduates of either one or both genders,while ‘alumnus’ traditlionally refers to a single male graduate,with the feminine term being ‘alumna’. in this code i have made three tables .one for admin_login table.other for student_registration table .last table is for college_detail.
